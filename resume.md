@@ -1,100 +1,101 @@
-Johnny Coder
-============
+Luc Mazon
+=========
 
 ----
 
->  In this style, the resume starts with a blockquote, where
->  you can briefly list your specialties, or include a salient
->  quote. Ending a line with a backslash forces a line break.
+>  Ingénieur JEE/Android, curieux et touche-à-tout, fervent défenseur de l'OpenSource.
 
 ----
 
-Education
----------
+Compétences techniques
+----------------------
 
-2010-2014 (expected)
-:   **PhD, Computer Science**; Awesome University (MyTown)
+Langages
+:    Java, HTML/CSS, UML, SQL, Groovy, bases en Scala, Ruby, Python et bash
 
-    *Thesis title: Deep Learning Approaches to the Self-Awesomeness
-     Estimation Problem*
+SGBD
+:    PostgreSQL, MySQL, SQLite, HSQLDB
 
-2007-2010
-:   **BSc, Computer Science and Electrical Engineering**; University of
-    HomeTown (HomeTown)
+Serveurs
+:    Tomcat, JBoss
 
-    *Minor: Awesomeology*
+OS
+:    Windows (XP/7), GNU/Linux (ArchLinux, Ubuntu, Fedora)
 
-Experience
-----------
+Produits
+:    Intellij IDEA, AndroidStudio, Eclipse, Gradle, Maven, Git, Subversion, Jenkins
 
-**Your Most Recent Work Experience:**
+Méthodes
+:    Scrum, eXtreme Programming, Test Driven Development, Intégration continue
 
-Short text containing the type of work done, results obtained,
-lessons learned and other remarks. Can also include lists and
-links:
+Composants
+:    Android, Spring, Hibernate, JUnit, Cucumber, Mockito, Slf4j, WebServices REST
 
-* First item
+Expérience professionnelle
+--------------------------
 
-* Item with [link](http://www.example.com). Links will work both in
-  the html and pdf versions.
+**Ingénieur dans la SSII eBusiness Information** - septembre 2012 - aujourd'hui
 
-**That Other Job You Had**
+**Missions :**
 
-Also with a short description.
+* **FIA-NET** - mars 2014 - mai 2015
 
-Technical Experience
---------------------
+Ajout de tests d'acceptance sur un projet existant.
 
-My Cool Side Project
-:   For items which don't have a clear time ordering, a definition
-    list can be used to have named items.
+Création d'une solution de paiement en 3 fois sans frais. Le projet comprend une interface
+web de paiement accessible depuis les sites marchands partenaires, une interface de
+gestion de contrats/transactions pour les opérateurs, et une interface accessible aux
+marchands pour gérer la validation et le suivi de leurs commandes. Ceux-ci peuvent
+également s'interfacer avec notre back-office par le biais d'une API, pour leur permettre
+d'effectuer le suivi depuis leur propre back-office.
 
-    * These items can also contain lists, but you need to mind the
-      indentation levels in the markdown source.
-    * Second item.
+Java 8, Gradle, Git, RabbitMQ, Spring, Hibernate, QueryDSL, Lombok, Grails, Jenkins, Tomcat, Cucumber, Google Analytics
 
-Open Source
-:   List open source contributions here, perhaps placing emphasis on
-    the project names, for example the **Linux Kernel**, where you
-    implemented multithreading over a long weekend, or **node.js**
-    (with [link](http://nodejs.org)) which was actually totally
-    your idea...
+* **Sedona** - octobre 2013 - janvier 2014
 
-Programming Languages
-:   **first-lang:** Here, we have an itemization, where we only want
-    to add descriptions to the first few items, but still want to
-    mention some others together at the end. A format that works well
-    here is a description list where the first few items have their
-    first word emphasized, and the last item contains the final few
-    emphasized terms. Notice the reasonably nice page break in the pdf
-    version, which wouldn't happen if we generated the pdf via html.
+Création de l'application tablette de Relais & Châteaux sur la base de l'application
+smartphone.
 
-:   **second-lang:** Description of your experience with second-lang,
-    perhaps again including a [link] [ref], this time placing the url
-    reference elsewhere in the document to reduce clutter (see source
-    file). 
+Réalisation d'une application de streaming musical pour smartphone et tablettes Android.
 
-:   **obscure-but-impressive-lang:** We both know this one's pushing
-    it.
+Java 6, Android 2.3+, Gradle, Git, android-query, google maps API, Picasso, Volley, Otto, Crashlytics
 
-:   Basic knowledge of **C**, **x86 assembly**, **forth**, **Common Lisp**
+* **Lafarge** - janvier 2013 - septembre 2013
 
-[ref]: https://github.com/githubuser/superlongprojectname
+Réalisation d'une application mobile et du backend associé visant à la dématérialisation complète des documents de livraison et au suivi de la flotte de camions.
 
-Extra Section, Call it Whatever You Want
-----------------------------------------
+Java 7, Android, Spring, Hibernate, Maven, Git, Tomcat
 
-* Human Languages:
+Diplômes et Formations
+----------------------
+**Coursera Certificate for Functional Programming Principles in Scala**
 
-     * English (native speaker)
-     * ???
-     * This is what a nested list looks like.
+**OCPJP** - Oracle Certified Professional, Java SE6 Programmer : 80%
 
-* Random tidbit
+**TOEIC** - 965/990
 
-* Other sort of impressive-sounding thing you did
+**Diplôme d'ingénieur, spécialité Architecture des Systèmes d'Information** - Institut National des Sciences appliquées - Rouen - 2012
+
+**Baccalauréat Scientifique** - option sciences de l'ingénieur - Mention Bien - 2006
+
+Divers
+------
+
+* Formateur occasionnel Java/JEE à l'EPF
+
+* Anglais - bilingue
+
+* Sports
+
+    * Aïkido
+	* Kung Fu Wushu
+	* Danse - modern jazz/lyrical
+
+* Violoncelle
+
+* Trésorier dans une association
 
 ----
 
-> <email@example.com> • +00 (0)00 000 0000 • XX years old\
-> address - Mytown, Mycountry
+> <luc.mazon@mailz.org> • 06.29.64.18.53 • 26 ans\
+> 39 rue du capitaine Rouveure - 27200 Vernon
